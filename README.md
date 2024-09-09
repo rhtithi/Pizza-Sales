@@ -6,10 +6,13 @@ Mysql workbench
 
 # Data & Exploration
 
-For Pizza Order Details- Click Here
-For Pizzas- Click here
-For Pizza Types- Click here
-For Order- Click Here
+For Pizza Order Details- [Click Here](https://github.com/rhtithi/Pizza-Sales/blob/main/order_details.csv)
+
+For Pizzas- [Click here](https://github.com/rhtithi/Pizza-Sales/blob/main/pizzas.csv)
+
+For Pizza Types- [Click here](https://github.com/rhtithi/Pizza-Sales/blob/main/pizza_types.csv)
+
+For Order- [Click Here](https://github.com/rhtithi/Pizza-Sales/blob/main/orders.csv)
 
 ## Exploration Questions
 
