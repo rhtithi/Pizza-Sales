@@ -1,2 +1,4 @@
 # Pizza-Sales
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository that I have created to showcase one of my portfolio projects on Pizzahut sales. This is where I have used MySQL to unleash the data from the datasets given to me. 
+
+
